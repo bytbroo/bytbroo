@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tech Hover Background – 3x BG Size</title>
+  <style>
+    :root {
+      --bg-opacity: 0.18;
+      --transition: 300ms cubic-bezier(0.2, 0.9, 0.3, 1);
+      --color-html: #e44d26;
+      --color-css: #297de3;
+      --color-scss: #cd6799;
+      --color-tailwind: #38bdf8;
+      --color-js: #f7df1e;
+      --color-react: #61dafb;
+      --color-gsap: #88ce02;
+    }
+    body {
+      display: flex;
+      min-height: 100vh;
+      align-items: center;
+      justify-content: center;
+      background: #0f1724;
+      color: #e6eef8;
+      font-family: Inter, system-ui, sans-serif;
+      padding: 40px;
+    }
+
+
+    .tech-list {
+      /* display: flex; */
+      /* flex-wrap: wrap; */
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .tech-item {
+      position: relative;
+      z-index: 3;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 0 8px;
+      cursor: pointer;
+      transition: transform var(--transition),
+                  background var(--transition), color var(--transition);
+      user-select: none;
+    }
+    /* .tech-item:focus {
+      outline: 2px solid rgba(99, 102, 241, 0.22);
+      outline-offset: 3px;
+    } */
+    .tech-item:hover,
+    .tech-item.show-bg {
+      transform: translateY(-4px);
+      /* background: rgba(255,255,255,0.045); */
+    }
+    .tech-item .bg-image {
+      position: absolute;
+      inset: 0;
+      z-index: 0;
+      background-position: center;
+      background-repeat: no-repeat;
+      opacity: 0;
+      transition: opacity var(--transition),
+        transform var(--transition);
+      pointer-events: none;
+      /* mix-blend-mode: normal; */
+      transform: scale(1.06);
+    }
+    .tech-item.show-bg .bg-image {
+      opacity: var(--bg-opacity);
+    }
+    .tech-item span:not(.bg-image) {
+      z-index: 1;
+      position: relative;
+    }
+    /* Tech-specific hover text colors */
+    .tech-item[data-tech="html"]:hover,
+    .tech-item[data-tech="html"].show-bg { color: var(--color-html);}
+    .tech-item[data-tech="css"]:hover,
+    .tech-item[data-tech="css"].show-bg { color: var(--color-css);}
+    .tech-item[data-tech="scss"]:hover,
+    .tech-item[data-tech="scss"].show-bg { color: var(--color-scss);}
+    .tech-item[data-tech="tailwind"]:hover,
+    .tech-item[data-tech="tailwind"].show-bg { color: var(--color-tailwind);}
+    .tech-item[data-tech="js"]:hover,
+    .tech-item[data-tech="js"].show-bg { color: var(--color-js);}
+    .tech-item[data-tech="react"]:hover,
+    .tech-item[data-tech="react"].show-bg { color: var(--color-react);}
+    .tech-item[data-tech="gsap"]:hover,
+    .tech-item[data-tech="gsap"].show-bg { color: var(--color-gsap);}
+    @media (max-width: 640px) {
+      .tech-item {
+        padding: 10px 14px;
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="tech-card" aria-live="polite">
+    <div class="content">
+      <p class="lead tech-list">
+
+        <span class="tech-item" tabindex="0"
+          data-img="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+          data-tech="css"
+          data-bgsize="96px">
+          <span class="bg-image"></span> CSS
+        </span>
+
+
+
+
+        
+        <span style="margin-left: 10px">
+          with strong UI/UX and Figma experience. Exploring MERN back-end development and contributing to collaborative front-end projects.
+        </span>
+      </p>
+    </div>
+  </div>
+  <script>
+    document.querySelectorAll(".tech-item").forEach((item) => {
+      const bg = item.querySelector(".bg-image");
+      const url = item.dataset.img;
+      function showBg() {
+        const bgsize = item.getAttribute('data-bgsize') || 'contain';
+        bg.style.backgroundImage = `url("${url}")`;
+        bg.style.backgroundSize = bgsize;
+        item.classList.add("show-bg");
+      }
+      function hideBg() {
+        item.classList.remove("show-bg");
+        bg.style.backgroundImage = "";
+        bg.style.backgroundSize = "";
+      }
+      item.addEventListener("mouseenter", showBg);
+      item.addEventListener("focus", showBg);
+      item.addEventListener("mouseleave", hideBg);
+      item.addEventListener("blur", hideBg);
+      item.addEventListener(
+        "touchstart",
+        (e) => {
+          if (!item.classList.contains("show-bg")) {
+            showBg();
+          } else {
+            hideBg();
+          }
+          e.preventDefault();
+        },
+        { passive: false }
+      );
+    });
+  </script>
+</body>
+</html>
