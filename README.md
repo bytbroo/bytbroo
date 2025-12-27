@@ -42,7 +42,7 @@ A dev-focused platform where learners, builders, and creators:
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,html,css,tailwind,scss,nodejs,prisma,git,github,figma,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,html,css,tailwind,scss,nodejs,git,github,figma,vscode" alt="Tech Stack" />
 </p>
 
 **Frontend:** React, JavaScript, TypeScript, Next.js  
