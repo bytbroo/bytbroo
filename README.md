@@ -3,7 +3,7 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Bytbroo&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=DC2329&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;UI%2FUX+Enthusiast+🎨;Building+DevXClub+%F0%9F%9A%80;Open+Source+Contributor+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;UI%2FUX+Enthusiast+🎨;Building+DevXClub+%F0%9F%9A%80;Open+Source+Contributor+✨" />
 
 
 ### **🎯 Crafting Digital Experiences That Scale**
