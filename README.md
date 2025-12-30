@@ -1093,9 +1093,13 @@ Projects Launched
 </details>
 
 ---
+<div align="center">
+  <strong>Last Updated:</strong> December 30, 2025 • 
+  <strong>Made with</strong> ❤️ <strong>by Bytbroo</strong>
+</div>
 
-**Last Updated:** December 30, 2024 • **Made with** ❤️ **by Bytbroo**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
 </div>
