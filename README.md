@@ -3,7 +3,8 @@
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Bytbroo&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Frontend+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Building+DevXClub+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=DC2329&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;UI%2FUX+Enthusiast+🎨;Building+DevXClub+%F0%9F%9A%80;Open+Source+Contributor+✨" />
+
 
 ### **🎯 Crafting Digital Experiences That Scale**
 *Not just interfaces that look good — experiences that work brilliantly*
@@ -709,35 +710,61 @@ const myContributions = {
 
 </div>
 
----
-
-## 📊 Weekly Coding Activity
-
-<div align="center">
-
-### **⏰ This Week's Focus**
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   14 hrs 25 mins  ███████████░░░░░░░░░░  48.2%
-JavaScript    8 hrs 15 mins  ███████░░░░░░░░░░░░░░  27.6%
-CSS           4 hrs 30 mins  ████░░░░░░░░░░░░░░░░░  15.0%
-JSON          1 hr 45 mins   █░░░░░░░░░░░░░░░░░░░░   5.8%
-Markdown      1 hr 00 mins   ░░░░░░░░░░░░░░░░░░░░░   3.4%
-```
-<!--END_SECTION:waka-->
-
-**💡 Productivity Tip:** Most productive during late nights 🌙
-
-</div>
 
 ---
 
 ## 🌐 Connect & Collaborate
 
+
+
 <div align="center">
 
-### **Let's Build Something Amazing Together!**
+### **I'm Open To:**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+💼  
+**Freelance Projects**  
+Frontend development  
+UI/UX implementation
+
+</td>
+<td align="center" width="25%">
+
+🤝  
+**Collaborations**  
+Open source projects  
+Side projects
+
+</td>
+<td align="center" width="25%">
+
+🎓  
+**Mentorship**  
+Code reviews  
+Career guidance
+
+</td>
+<td align="center" width="25%">
+
+🎤  
+**Speaking**  
+Tech talks  
+Workshops
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<div align="center">
+
+### **Let's Connect & Build Something Amazing Together!**
 
 <table>
 <tr>
@@ -1064,117 +1091,6 @@ Projects Launched
 - 🎥 Theo - t3.gg - Modern web dev
 
 </details>
-
----
-
-## 📬 Want to Work Together?
-
-<div align="center">
-
-### **I'm Open To:**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-💼  
-**Freelance Projects**  
-Frontend development  
-UI/UX implementation
-
-</td>
-<td align="center" width="25%">
-
-🤝  
-**Collaborations**  
-Open source projects  
-Side projects
-
-</td>
-<td align="center" width="25%">
-
-🎓  
-**Mentorship**  
-Code reviews  
-Career guidance
-
-</td>
-<td align="center" width="25%">
-
-🎤  
-**Speaking**  
-Tech talks  
-Workshops
-
-</td>
-</tr>
-</table>
-
-### **Let's Connect!**
-
-<a href="mailto:kundankr7172@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/bytbroo">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/@bytbroo">
-  <img src="https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🌟 Support My Work
-
-<div align="center">
-
-### **If you find my work helpful:**
-
-⭐ **Star my repositories** - It means a lot!  
-🐦 **Share on Twitter** - Help others discover  
-💬 **Provide feedback** - Help me improve  
-🤝 **Contribute** - Join the journey  
-☕ **Buy me a coffee** - Fuel more coding  
-
-<a href="https://www.buymeacoffee.com/bytbroo" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-</a>
-
-**Every contribution, no matter how small, makes a difference! 💙**
-
-</div>
-
----
-
-## 📊 Profile Views & Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=bytbroo&label=PROFILE+VIEWS&color=ff7a00&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/bytbroo?label=FOLLOWERS&style=for-the-badge&color=ff7a00)
-![Stars](https://img.shields.io/github/stars/bytbroo?label=TOTAL+STARS&style=for-the-badge&color=ff7a00)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Let's Build the Future Together
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB;May+your+bugs+be+few+and+fixes+be+many!+%F0%9F%90%9B" alt="Typing SVG" />
-
-<p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" alt="Makes People Smile" />
-</p>
-
----
-
-<i>**"No shortcuts. Just clean code, good design, and consistency."** 💻✨</i>
 
 ---
 
