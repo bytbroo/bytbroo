@@ -286,7 +286,7 @@ I'm looking to collaborate on projects focused on:
 <a href="https://twitter.com/@bytbroo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://discord.gg/devxclub"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-**📧 Email:** kundan.webdev@gmail.com | **💬 Response Time:** Within 24-48 hours
+**📧 Email:** kundan.webdev@gmail.com 
 
 </div>
 
