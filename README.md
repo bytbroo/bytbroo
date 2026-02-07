@@ -67,7 +67,7 @@ Led tech teams solving 1,000+ technical problems with 95%+ accuracy. Now buildin
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -78,7 +78,6 @@ Led tech teams solving 1,000+ technical problems with 95%+ accuracy. Now buildin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,prisma,postgresql,git,github,figma,vscode,vercel,docker&perline=7" />
 
 **Focus:** Performance Optimization • Web Accessibility (WCAG) • Design Systems • Responsive Design
 
